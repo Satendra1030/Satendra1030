@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @Satendra1030
+- 👋 Hi, I'm Satendra Kushwaha
 - 👀 I'm interested in Web Development, AI / Machine Learning & Data Science
 - 🌱 I'm currently learning React / Next.js, Python & ML, and Cloud & DevOps
 - 💞️ I'm looking to collaborate on Web Apps — from simple landing pages to full-stack platforms
