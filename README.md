@@ -2,8 +2,7 @@
 - 👀 I'm interested in Web Development, AI / Machine Learning & Data Science
 - 🌱 I'm currently learning React / Next.js, Python & ML, and Cloud & DevOps
 - 💞️ I'm looking to collaborate on Web Apps — from simple landing pages to full-stack platforms
-- 📫 How to reach me:
-  -Gmail: satendrakushwaha1030@gmail.com |
+- 📫 How to reach me:Gmail: satendrakushwaha1030@gmail.com
  -LinkedIn: https://www.linkedin.com/in/satendra-prasad-kushwaha-028591406/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love turning raw data into meaningful insights and beautiful UIs!
